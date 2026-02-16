@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スケベなだけで金がない",
+  "base_artist": "礼賛",
+  "createdAt": "2026-02-16T11:12:10.160465Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スケベなだけで金がない",
+      "artist": "礼賛",
+      "has_synced": false,
+      "path": "select/pl_01_スケベなだけで金がない_礼賛.txt"
+    }
+  ]
+}
